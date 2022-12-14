@@ -1,0 +1,4 @@
+<template>
+    hehe
+    <NavigationNavbar/>
+</template>
