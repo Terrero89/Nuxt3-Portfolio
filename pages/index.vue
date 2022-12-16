@@ -1,4 +1,9 @@
-<template>
-     <div>PAGE FOR WEBSITE</div>
+<script setup>
 
+</script>
+
+<template>
+   <div>
+    Project
+   </div>
 </template>

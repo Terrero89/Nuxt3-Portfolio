@@ -1,3 +1,9 @@
+<script setup>
+
+</script>
+
 <template>
-    project IDdddd
+   <div>
+    Project
+   </div>
 </template>

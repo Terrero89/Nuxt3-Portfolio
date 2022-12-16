@@ -1,4 +1,5 @@
+<script setup></script>
+
 <template>
-    hehe
-    <NavigationNavbar/>
+  <div>Project</div>
 </template>
